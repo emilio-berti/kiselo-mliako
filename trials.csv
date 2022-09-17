@@ -1,2 +1,2 @@
-milk,pot,stove,T0,T1,minutes_T1,heat,resting_hours
-brandeburg_mark,spice_and_soul,4,18.6,82,30,4,6
+ID,milk,pot,stove,T0,T1,minutes_T1,heat,resting_hours,photo
+1,brandeburg_mark,spice_and_soul,4,18.6,82,30,4,6,NA
